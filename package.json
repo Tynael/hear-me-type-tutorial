@@ -1,0 +1,22 @@
+{
+  "name": "hear-me-type-tutorial",
+  "version": "1.0.0",
+  "description": "Play a sound for every keyboard key that you press",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Tynael/hear-me-type-tutorial",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Carol Pelu",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
